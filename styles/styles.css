@@ -140,9 +140,9 @@ font-weight: 400;
     }
 
     .cabecalho__menu__link {
-        font-size: 1.4rem;
+        font-size: 1.2rem;
         text-align: center;
-        width: 75%;
+
     }
     .apresentacao{
         flex-direction: column-reverse;
