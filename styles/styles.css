@@ -150,6 +150,9 @@ font-weight: 400;
     .apresentacao__conteudo{
         width: auto;
     }
+    .apresentacao__imagem{
+        width: 100%;
+    }
 }
 
 
