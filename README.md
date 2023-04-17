@@ -1,6 +1,6 @@
 # Olá, me chamo Thiago e esse é o meu primeiro portfólio, sejam bem vindos!
 
-https://img.shields.io/badge/<PRIMEIRO_PORTFÓLIO>-<FINALIZADO>-<GREEN>
+https://img.shields.io/static/v1?label=<LABEL>&PRIMEIRO PORTÓLIO=<MESSAGE>&GREEN=<COLOR>
 
 Sobre o projeto: 
 
