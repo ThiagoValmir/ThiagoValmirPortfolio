@@ -1,5 +1,7 @@
 # Olá, me chamo Thiago e esse é o meu primeiro portfólio, sejam bem vindos!
 
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+
 Sobre o projeto: 
 
 - Esse projeto foi feito apenas utilizando CSS e HTML. 
