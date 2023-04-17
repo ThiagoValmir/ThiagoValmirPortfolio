@@ -1,16 +1,10 @@
-# Olá, me chamo Thiago, sou programador front-end e futuro desenvolvedor Flutter!
+# Olá, me chamo Thiago e esse é o meu primeiro portfólio, sejam bem vindos!
 
-- Trabalho com Front-end 🧑🏻‍💻
-- Estou estudando JavaScript 🧙🏻‍♂️
-- Pronomes: ele / dele 😊
+Esse projeto foi feito apenas utilizando CSS e HTML.
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Thiago-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Thiago-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Thiago-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Thiago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Thiago-pic" height="150" style="border-radius:50px;" 
-src="https://media.licdn.com/dms/image/D4D03AQGy-6STSwH_ww/profile-displayphoto-shrink_800_800/0/1674429921231?e=1686787200&v=beta&t=cF03WOoqPT7svDfXWPtAEaGbzQ2lZib7U-PxKwS5v3Y">
 </div>
   
   ##
