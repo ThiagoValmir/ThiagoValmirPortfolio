@@ -1,6 +1,13 @@
 # Olá, me chamo Thiago e esse é o meu primeiro portfólio, sejam bem vindos!
 
-Esse projeto foi feito apenas utilizando CSS e HTML.
+Sobre o projeto: 
+
+- Esse projeto foi feito apenas utilizando CSS e HTML. 
+- Aplicado conhecimentos de design responsivo e exploração do uso das medias queries. 
+- Você pode navegar pelas 3 páginas utilizando a barra de navegação no topo da página. 
+- É possível ver o meu currículo, saber um pouco mais sobre mim e ter acesso ao visual do meu portfólio. 
+- O projeto está sujeito a mudanças conforme eu aprimorar minhas habilidades, portanto não é produto final. 
+- Esse projeto foi desenvolvido com ajuda dos cursos voltados para o front-end da Alura.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Thiago-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
